@@ -1,0 +1,9 @@
+Project Information
+
+Name: Julie's ADBC Summit Project
+
+Abstract: Test project for MorphoSource DemoCamp Demo. 
+
+External Link: https://github.com/MorphoSource/adbc-2017-democamp/
+
+Publish project details? Keep project information private

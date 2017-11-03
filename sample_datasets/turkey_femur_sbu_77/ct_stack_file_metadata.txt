@@ -1,0 +1,7 @@
+Title: TIFF Stack
+
+Description/Element: Femur
+
+Side: Right
+
+File type: Raw file of group

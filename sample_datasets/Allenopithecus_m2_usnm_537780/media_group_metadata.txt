@@ -1,0 +1,31 @@
+New media group (not derived)
+
+Description: Surface scan derived from CT scan TIFF stack
+
+Publication status: Not published
+
+Description/Element: Second molar
+
+Side: - NONE -
+
+Notes: ADBC Test Media Group
+
+Grant support: DBI 1661386
+
+Media citation instructions: Julie Winchester / Winchester 2016 / NSF DDIG
+
+Is this media copyrighted? Yes (check)
+
+Copyright permission: Permission to use media on MorphoSource granted by copyright holder
+
+Copyright license: CC-BY-NC
+
+Copyright holder: American Museum of Natural History
+
+Find the facility this media file was created at: SMiF
+
+Choose scanner used: Nikon XTH
+
+X res, Y res, Z res: 0.007
+
+Technicians: Julie Winchester

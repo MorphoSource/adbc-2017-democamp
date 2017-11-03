@@ -1,0 +1,7 @@
+Title: Surface derived from TIFF stack
+
+Description/Element: Second molar
+
+Side: Left
+
+File type: new file (not derived)

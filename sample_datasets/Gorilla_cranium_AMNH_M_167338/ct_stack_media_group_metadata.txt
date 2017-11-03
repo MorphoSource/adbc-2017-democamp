@@ -1,0 +1,31 @@
+New media group (not derived)
+
+Description: TIFF stack of CT scan
+
+Publication status: Not published
+
+Description/Element: Cranium
+
+Side: - NONE -
+
+Notes: ADBC Test Media Group
+
+Grant support: DBI 1661386
+
+Media citation instructions: Eric Delson / Delson 19XX / NSF DBI 1661386
+
+Is this media copyrighted? Yes (check)
+
+Copyright permission: Permission to use media on MorphoSource granted by copyright holder
+
+Copyright license: CC-BY-NC
+
+Copyright holder: American Museum of Natural History
+
+Find the facility this media file was created at: SMiF
+
+Choose scanner used: Nikon XTH
+
+X res, Y res, Z res: 0.007
+
+Technicians: Eric Delson
