@@ -1,0 +1,21 @@
+Reference source: Vouchered
+
+Inst. code prefix: SBU
+
+Coll. code modifier: T
+
+Alphanumeric suffix: 77
+
+URL to specimen record in home repository:
+
+Occurrence ID: 5aa03b22-b560-48f6-bb0e-b62edce9ac95
+
+Description: ADBC Summit Specimen
+
+Type: No
+
+Sex: - NONE - 
+
+Find the institution for this specimen: Stony Brook University, Stony Brook, New York
+
+Taxonomy: Meleagris gallopavo
