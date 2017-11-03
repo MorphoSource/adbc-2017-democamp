@@ -20,10 +20,10 @@ This repository contains sample datasets, associated metadata, and the presentat
 
 * Finding data 
   * Browse by...
-    * Project
-    * Taxonomy
     * Institution
-    * ???
+    * Taxonomy
+    * Bibliography
+    * Project
   * Search
   
 * Uploading data
