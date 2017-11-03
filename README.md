@@ -7,7 +7,7 @@ This repository contains sample datasets, associated metadata, and the presentat
 * Making a MorphoSource Account
   * Becoming a MorphoSource Contributor
   
-* Data Hiearchy
+* Data Hierarchy
   * Projects
   * Specimens
     * No duplicate specimens. All projects containing specimen X are linked to the same record. 
@@ -28,8 +28,9 @@ This repository contains sample datasets, associated metadata, and the presentat
   
 * Uploading data
   * Creating a project
-  * Three examples of data upload. Adding a specimen and 3D media files when...
-    * ... the specimen is already in MorphoSource. 
+  * Four examples of data upload. Adding a specimen and/or 3D media files when...
+    * ... the specimen is already in MorphoSource.
+    * ... the specimen is already in MorphoSource, and the media is derived from media already on MorphoSource. 
     * ... the specimen is not in MorphoSource, but is in iDigBio. 
     * ... the specimen is not in MorphoSource or in iDigBio. 
     
