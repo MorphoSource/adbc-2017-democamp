@@ -2,6 +2,8 @@
 
 This repository contains sample datasets, associated metadata, and the presentation outline for a demo of MorphoSource given at the ADBC Summit 2017 DemoCamp on November 3rd, 2017. 
 
+A livestream of this presentation is available [here](http://idigbio.adobeconnect.com/pxijtqf9cff1/).
+
 ## Presentation Outline
 
 * Making a MorphoSource Account
